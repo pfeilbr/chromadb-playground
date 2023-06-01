@@ -1,0 +1,7 @@
+.venv
+.env
+.pynb_checkpoints
+.chroma
+*-checkpoint.ipynb
+*-checkpoint*
+```
