@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 jupyterlab = "*"
 chromadb = "*"
+beautifulsoup4 = "*"
+markdown = "*"
 
 [dev-packages]
 
