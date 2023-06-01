@@ -2,6 +2,7 @@
 .env
 .pynb_checkpoints
 .chroma
+persist/
 *-checkpoint.ipynb
 *-checkpoint*
 ```
